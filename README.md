@@ -30,7 +30,7 @@ A collection of 15 Power BI projects covering:
 - Interactive Dashboards
 - Business Insights
 
-👉 **[View 15 Days 15 Power BI Projects](YOUR-POWER-BI-REPOSITORY-LINK)**
+👉 **[View 15 Days 15 Power BI Projects]((https://github.com/Anshu906070/PowerBI-Projects))**
 
 ---
 
