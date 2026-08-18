@@ -2,105 +2,36 @@
 
 ## 📊 Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio.
-
-This repository serves as a central hub for my projects across
-Power BI, SQL, Python, and Excel.
-
-My projects focus on transforming raw data into meaningful
-business insights through data cleaning, analysis, visualization,
-and reporting.
+A collection of my data analytics projects using Power BI, SQL, Python, and Excel.
 
 ---
 
-# 🚀 Analytics Portfolio
+## 📊 Power BI Portfolio
 
-## 📊 Power BI
+| Portfolio | Description | Status |
+|---|---|---|
+| 📊 **15 Days – 15 Power BI Projects** | 15 Power BI dashboard projects covering data cleaning, Power Query, DAX, data modeling, visualization, KPI analysis, and business insights. | ✅ In Progress |
 
-### 15 Days – 15 Power BI Projects
-
-A collection of 15 Power BI projects covering:
-
-- Data Cleaning
-- Power Query
-- Data Transformation
-- Data Modeling
-- DAX
-- KPI Analysis
-- Interactive Dashboards
-- Business Insights
-
-👉 **[View 15 Days 15 Power BI Projects]((https://github.com/Anshu906070/PowerBI-Projects))**
+🔗 **[Explore the Power BI Projects →](https://github.com/Anshu906070/PowerBI-Projects)**
 
 ---
 
-## 🗄️ SQL
+## 🗄️ SQL Portfolio
 
-### Anshushop E-Commerce SQL Analysis
+| Project | Description | Status |
+|---|---|---|
+| 🛒 **Anshushop E-Commerce SQL Analysis** | MySQL-based e-commerce analysis covering customers, products, orders, revenue, payments, SQL JOINs, and business insights. | 🚧 In Progress |
 
-MySQL-based e-commerce analysis covering:
-
-- Customer Analysis
-- Product Analysis
-- Order Analysis
-- Revenue Analysis
-- Payment Analysis
-- SQL JOINs
-- Aggregations
-- Business Insights
-
-👉 **[View SQL Projects](./SQL)**
+🔗 **[Explore SQL Projects →](./SQL)**
 
 ---
 
-## 🐍 Python
+## 🐍 Python Portfolio
 
-Python projects focused on:
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Pandas
-- NumPy
-- Data Visualization
-- Business Insights
-
-🚧 Coming Soon
+Coming Soon 🚧
 
 ---
 
-## 📈 Excel
+## 📈 Excel Portfolio
 
-Excel projects focused on:
-
-- Data Cleaning
-- PivotTables
-- Excel Formulas
-- Data Visualization
-- Dashboard Development
-- Business Reporting
-
-🚧 Coming Soon
-
----
-
-# 🛠️ Technical Skills
-
-### Data Analytics
-SQL • Power BI • Excel • Python
-
-### SQL
-MySQL • JOINs • Aggregations • Subqueries • CTEs • Window Functions
-
-### Power BI
-Power Query • DAX • Data Modeling • Dashboard Development
-
-### Python
-Pandas • NumPy • Matplotlib
-
----
-
-# 🎯 Portfolio Goal
-
-To develop practical data analytics projects that demonstrate
-technical skills, analytical thinking, and the ability to convert
-data into actionable business insights.
+Coming Soon 🚧
